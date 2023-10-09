@@ -1,8 +1,10 @@
-- 👋 Hi there, I’m Dmitrii!!
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+**👋 I’m Dmitrii, Dima!! Nice to meet you!!👋**
+
+- 👀 I’m interested in sport, extreme and fuzzies👀
+- 🌱 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 My Telegram: @demitrose
+- 📫 My mail: demitrose@gmail.com
 
 <!---
 demitrose/demitrose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
